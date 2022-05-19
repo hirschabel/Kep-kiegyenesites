@@ -1,4 +1,4 @@
-# Kep-kiegyenesites
-Digitális képfeldolgozás projekt [Kép kiegyenesítés]
+# Kép kiegyenesítés
+Digitális képfeldolgozás projekt
 
 2021/22/2
